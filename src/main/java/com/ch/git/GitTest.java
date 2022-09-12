@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hot-fix first commit");
         System.out.println("master 第四次提交");
         System.out.println("hot-fix marge");
+        System.out.println("push test");
     }
 }
