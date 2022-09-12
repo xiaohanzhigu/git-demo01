@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("world");
         System.out.println("world");
         System.out.println("hot-fix first commit");
+        System.out.println("hot-fix marge");
     }
 }
